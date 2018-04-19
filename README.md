@@ -3,6 +3,7 @@
 Check it out, before you checkout.
 
 Too many keystrokes just to checkout a branch? Tired of long branch names? Don't remember what branches are available? Don't be bothered by fix-a-bug-where-code-is-broken-because-bad branch names any more! Check It Out gives you the interactive power to see your branches and check them out with fewer keystrokes.
+
 ## Requirements
 [Node >= v7.0](https://nodejs.org/en/blog/release/v7.0.0/) - Required for async/await
 [Git](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git) - Required for core features
